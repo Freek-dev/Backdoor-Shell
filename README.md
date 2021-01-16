@@ -1,8 +1,6 @@
 # Backdoor-Shell
 Basic python backdoor script
 
-1.Change password 
+1.install python(https://www.python.org/downloads/)
 
-2.Start the script in victims pc
-
-3.ENJOY
+2.
